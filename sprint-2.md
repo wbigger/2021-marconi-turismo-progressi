@@ -6,7 +6,7 @@
 
 Ogni storia vale forfettariamente 2 punti.
 
-# Review (16/2/2021)
+# Review meeting (16/2/2021)
 
 ## Sprint velocity
 - Lecce: x/6 (100%)
