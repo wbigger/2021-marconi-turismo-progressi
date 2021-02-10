@@ -8,6 +8,7 @@ Il progetto segue la traccia dell'Esame di Stato della sessione ordinaria del 20
 - Claudia Amorosi
 - Alex Atzori
 - Chiara Gismondi (Product Owner)
+
 [Link GitHub](https://github.com/claudiaamorosi/2021-marconi-turismo-lecce)
 
 # Gruppo Sanremo
@@ -15,6 +16,7 @@ Il progetto segue la traccia dell'Esame di Stato della sessione ordinaria del 20
 - Alessio Bonomo
 - Asia Rasi
 - Mattia Soriani
+
 [Link GitHub]()
 
 # Gruppo Cremona
@@ -22,6 +24,7 @@ Il progetto segue la traccia dell'Esame di Stato della sessione ordinaria del 20
 - Giada Venturini
 - Luigi Stella
 - Bofan Constantin Eusebiu
+
 [Link GitHub](https://github.com/giadaventurini-pixel/2021-marconi-turismo-cremona)
 
 # Gruppo Assisi
@@ -29,4 +32,5 @@ Il progetto segue la traccia dell'Esame di Stato della sessione ordinaria del 20
 - Roberta Moracchioli (Product Owner)
 - Aurora Stefanini
 - Denisa Rotaru
+
 [Link GitHub]()
