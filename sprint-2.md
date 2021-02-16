@@ -9,7 +9,7 @@ Ogni storia vale forfettariamente 2 punti.
 # Review meeting (16/2/2021)
 
 ## Sprint velocity
-- Lecce: x/6 (x%)
-- Sanremo: x/6 (x%)
-- Cremona: x/6 (x%)
-- Assisi: x/6 (x%)
+- Lecce: 6/6 (100%)
+- Sanremo: 6/6 (100%)
+- Cremona: 0+0+2/6 (33%)
+- Assisi: 6/6 (100%)
