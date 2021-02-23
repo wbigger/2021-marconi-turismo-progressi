@@ -17,7 +17,7 @@ Il progetto segue la traccia dell'Esame di Stato della sessione ordinaria del 20
 - Asia Rasi
 - Mattia Soriani
 
-[Link GitHub]()
+[Link GitHub](https://github.com/giuliacangani02/2021-marconi-turismo-Sanremo)
 
 # Gruppo Cremona
 - Marco Ciocci (Product Owner)
@@ -33,4 +33,4 @@ Il progetto segue la traccia dell'Esame di Stato della sessione ordinaria del 20
 - Aurora Stefanini
 - Denisa Rotaru
 
-[Link GitHub]()
+[Link GitHub](https://github.com/denrotaru23/2021-marconi-turismo-Assisi-)
