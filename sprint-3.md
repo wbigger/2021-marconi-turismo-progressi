@@ -25,7 +25,7 @@ facilmente sul browser.
 # Review meeting (17/2/2021)
 
 ## Sprint velocity
-- Lecce: x/6 (x%)
-- Sanremo: x/6 (x%)
-- Cremona: x/6 (x%)
-- Assisi: x/6 (x%)
+- Lecce: 6/6 (100%)
+- Sanremo: 3/6 (50%)
+- Cremona: 6/6 (100%)
+- Assisi: 6/6 (100%)
