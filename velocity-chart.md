@@ -1,11 +1,9 @@
 # Sprint success rate
 
-All sprints have a total of 6 points.
 
-
-|  | Sprint #1  | Sprint #2 |
-|--|--|--|
-|Lecce|100|  |
-|Sanremo|66|  |
-|Cremona|100|  |
-|Assisi|100|  |
+|  | Sprint #1  | Sprint #2 | Sprint #3 | Sprint #4 | Sprint #5 |
+|--|--|--|--|--|--|
+|Lecce|100|100  |100|100||
+|Sanremo|66|100  |50|50||
+|Cremona|100| 33 |100|0||
+|Assisi|100|100  |100|50||
