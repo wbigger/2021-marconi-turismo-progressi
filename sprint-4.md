@@ -13,7 +13,7 @@ Come amministratore, voglio l'architettura delle pagine dell'applicazione web  (
 # Review meeting (18/2/2021)
 
 ## Sprint velocity
-- Lecce: x/6 (x%)
-- Sanremo: x/6 (x%)
-- Cremona: x/6 (x%)
-- Assisi: x/6 (x%)
+- Lecce: 6/6 (100%) Note: cambiare piano di indirizzamento
+- Sanremo: 3+0/6 (50%) Note: cambiare piano di indirizzamento
+- Cremona: 0/6 (0%)
+- Assisi: 0+3/6 (50%)
