@@ -7,6 +7,8 @@ Repository di riepilogo del lavoro svolto dal 5Binf a.s.2020/21 per TPSI all'IIS
 
 Il progetto segue la traccia dell'Esame di Stato della sessione ordinaria del 2019, scaricabile [qui](https://www.istruzione.it/esame_di_stato/201819/Istituti%20tecnici/Ordinaria/AB42_ORD19.pdf).
 
+Il progetto è realizzato con un adattamento per la scuola della metodologia Agile/Scrum.
+
 # Gruppo Lecce
 - Claudia Amorosi
 - Alex Atzori
